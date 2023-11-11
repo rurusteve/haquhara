@@ -1,0 +1,54 @@
+{
+  "resources/css/app.scss": {
+    "file": "assets/app-c446350f.css",
+    "isEntry": true,
+    "src": "resources/css/app.scss"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-1dd66bf7.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-1dd66bf7.css"
+    ],
+    "file": "assets/app-53e6f36f.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/custom/chart-active.js": {
+    "file": "assets/chart-active-a0604b07.js",
+    "isEntry": true,
+    "src": "resources/js/custom/chart-active.js"
+  },
+  "resources/js/custom/store.js": {
+    "file": "assets/store-7e6bbe8d.js",
+    "isEntry": true,
+    "src": "resources/js/custom/store.js"
+  },
+  "resources/js/main.js": {
+    "file": "assets/main-5c6b3af9.js",
+    "isEntry": true,
+    "src": "resources/js/main.js"
+  },
+  "resources/js/plugins/dropzone.min.js": {
+    "file": "assets/dropzone.min-e9c4fac0.js",
+    "isEntry": true,
+    "src": "resources/js/plugins/dropzone.min.js"
+  },
+  "resources/js/plugins/flatpickr.js": {
+    "file": "assets/flatpickr-1486ce37.js",
+    "isEntry": true,
+    "src": "resources/js/plugins/flatpickr.js"
+  },
+  "resources/js/plugins/jquery-jvectormap-2.0.5.min.js": {
+    "file": "assets/jquery-jvectormap-2.0.5.min-e44a5384.js",
+    "isEntry": true,
+    "src": "resources/js/plugins/jquery-jvectormap-2.0.5.min.js"
+  },
+  "resources/js/plugins/jquery-jvectormap-world-mill-en.js": {
+    "file": "assets/jquery-jvectormap-world-mill-en-8e18c5b8.js",
+    "isEntry": true,
+    "src": "resources/js/plugins/jquery-jvectormap-world-mill-en.js"
+  }
+}
